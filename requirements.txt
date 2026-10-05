@@ -1,0 +1,10 @@
+agno
+groq
+python-dotenv
+pydantic
+pypdf
+python-docx
+streamlit
+pandas
+openpyxl
+xlrd
